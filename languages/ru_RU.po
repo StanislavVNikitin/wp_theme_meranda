@@ -1,0 +1,268 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: meranda 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"POT-Creation-Date: 2023-09-01 12:54+0300\n"
+"PO-Revision-Date: 2023-09-01 13:18+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: _s\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: 404.php:10
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "Похоже, ничего не найдено."
+
+#: 404.php:18
+msgid "Most Used Categories"
+msgstr "Наиболее используемые категории"
+
+#: 404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах. %1$s"
+
+#: archive.php:12 index.php:16
+msgid "All Stories"
+msgstr "Все новости"
+
+#: archive.php:20 index.php:24 search.php:16
+msgid "«"
+msgstr ""
+
+#: archive.php:21 index.php:25 search.php:17
+msgid "»"
+msgstr ""
+
+#: archive.php:26 index.php:30 search.php:22
+msgid "No entries"
+msgstr "Нет записей"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна мысль на &ldquo;%1$s&rdquo;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:52
+msgid "Header Menu"
+msgstr "Меню в заголовке"
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:127
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: functions.php:241
+msgid " ago"
+msgstr " назад"
+
+#: functions.php:247
+msgid " min read "
+msgstr " минут чтения "
+
+#: functions.php:257
+msgid " min read"
+msgstr " минут чтения "
+
+#: inc/admin-functions.old.php:7 inc/admin-functions.php:7
+msgid "Meranda Theme Options"
+msgstr "Meranda опции темы"
+
+#: inc/admin-functions.old.php:7 inc/admin-functions.php:7
+msgid "MerandaTheme"
+msgstr "MerandaTheme"
+
+#: inc/admin-functions.old.php:23 inc/admin-functions.php:38
+msgid "Slider setting"
+msgstr "Слайдера настройки"
+
+#: inc/admin-functions.old.php:25 inc/admin-functions.php:39
+msgid "Home page setting"
+msgstr "Домашней страницы настройки"
+
+#: inc/admin-functions.old.php:28 inc/admin-functions.php:44
+msgid "Slider enable"
+msgstr "Слайдер включить"
+
+#: inc/admin-functions.old.php:29
+msgid "Slider article 1"
+msgstr "Слайдер новость 1"
+
+#: inc/admin-functions.old.php:30
+msgid "Slider article 2"
+msgstr "Слайдер новость 2"
+
+#: inc/admin-functions.old.php:32 inc/admin-functions.php:46
+#: inc/admin-functions.php:50
+msgid "Number of featured post"
+msgstr "Количество избранных постов"
+
+#: inc/admin-functions.old.php:56 inc/admin-functions.old.php:73
+#: inc/admin-functions.old.php:95 inc/admin-functions.php:189
+msgid "Post slider selected: "
+msgstr "Сообщение выбраное для слайдера:"
+
+#: inc/admin-functions.php:40
+msgid "Home main post setting"
+msgstr "Настройка основного поста на главной странице"
+
+#: inc/admin-functions.php:41
+msgid "Home Categories post setting"
+msgstr "Настройка Категорий публикации "
+
+#: inc/admin-functions.php:42
+msgid "Social Network icons setting"
+msgstr "Настройка социальных сетей"
+
+#: inc/admin-functions.php:45
+msgid "Slider of post"
+msgstr "Слайдер пост"
+
+#: inc/admin-functions.php:47
+msgid "Home post"
+msgstr "Главный пост"
+
+#: inc/admin-functions.php:48
+msgid "Category 1"
+msgstr "Категория 1"
+
+#: inc/admin-functions.php:49
+msgid "Category 2"
+msgstr "Категория 2"
+
+#: inc/admin-functions.php:51
+msgid "Social Network 1"
+msgstr "Социальная сеть 1"
+
+#: inc/admin-functions.php:52
+msgid "Social Network 2"
+msgstr "Социальная сеть 2"
+
+#: inc/admin-functions.php:53
+msgid "Social Network 3"
+msgstr "Социальная сеть 3"
+
+#: inc/admin-functions.php:150
+msgid "HOME Post selected: "
+msgstr "Выбранный постЭ"
+
+#: inc/meranda_metaboxes.php:5
+msgid "Post Data"
+msgstr "Публикация данных"
+
+#: inc/meranda_metaboxes.php:22
+msgid "Number of minutes to read"
+msgstr "Количество синут для чтения"
+
+#: inc/meranda_metaboxes.php:28
+msgid "Add to featured posts"
+msgstr "Добавить избранный пост"
+
+#: inc/meranda_metaboxes.php:34
+msgid "Add post to slider"
+msgstr "Добавить пост для слайдера"
+
+#: inc/meranda_metaboxes.php:39
+msgid "Post is treding"
+msgstr "Пост в тренде"
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr "С тегами %1$s"
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редактировать <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/templates/meranda-options.php:2
+msgid "Theme options page"
+msgstr "Страница опций темы"
+
+#: page.php:20 single.php:21 template-parts/content.php:8
+#: template-parts/home_category_post.php:47 template-parts/home_slider.php:27
+#: template-parts/main_post.php:16
+msgid " in "
+msgstr " в "
+
+#: search.php:8
+msgid "Search by query: "
+msgstr "Поиск по запросу: "
+
+#: searchform.php:3
+msgid "Search..."
+msgstr "Поиск "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост?<a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствует вашим критериям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/featured_posts.php:27
+msgid "Featured posts"
+msgstr "Избранные посты"
+
+#: template-parts/featured_posts.php:94
+msgid "Trending"
+msgstr "Тренды"
